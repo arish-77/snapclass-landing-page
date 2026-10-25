@@ -13,10 +13,10 @@ The website introduces the project, highlights its key features, and guides visi
 <!-- Add screenshots of your landing page to the screenshots/ folder -->
 
 ### Home Page
-![SnapClass Landing Page](screenshots/landing_page.png)
+![SnapClass Landing Page](ss/landing_page.png)
 
 ### Features Section
-![SnapClass Features](screenshots/features.png)
+![SnapClass Features](ss/features.png)
 
 ## ✨ Features
 
